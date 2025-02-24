@@ -1,5 +1,7 @@
 # Audio Classification Web Application
 
+![Home Page](webapp.png)
+
 ## Overview
 This project is a Streamlit-based web application that classifies audio files using an ensemble of two deep learning models: **YAMNet** and **Wav2Vec2**. The app takes a WAV audio file as input and provides class predictions using different ensemble techniques.
 
