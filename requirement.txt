@@ -1,0 +1,13 @@
+torch
+torchaudio
+tensorflow
+tensorflow_hub
+librosa
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+streamlit
+transformers
+pickle5  # If using pickle, but not needed in Python 3.8+
