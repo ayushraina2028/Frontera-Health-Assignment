@@ -3,3 +3,4 @@ Datasets/Screaming/*
 Datasets/NotScreaming/*
 processed_data/
 test_data/
+wav2vec_model.pth

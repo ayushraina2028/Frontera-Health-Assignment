@@ -48,6 +48,6 @@ Datasets/
 │   ├── 2.wav
 │   ├── ...
 ```
-```
+
 ## Usage of Web Application
 You can upload a WAV audio file using the file uploader in the web application. The app will then display the predictions from the two models and the ensemble predictions using different techniques.
