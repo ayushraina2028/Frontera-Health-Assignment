@@ -57,3 +57,7 @@ Datasets/
 
 ## Usage of Web Application
 You can upload a WAV audio file using the file uploader in the web application. The app will then display the predictions from the two models and the ensemble predictions using different techniques.
+
+To run the trained Yamnet Model, open this [File](https://github.com/ayushraina2028/Frontera-Health-Assignment/blob/master/Ensemble1.ipynb)
+
+To run the trained Wav2Vec2 Model, open this [File](https://github.com/ayushraina2028/Frontera-Health-Assignment/blob/master/Ensemble2.ipynb) Given that you have downloaded weights from the link provided above.
