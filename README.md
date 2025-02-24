@@ -3,7 +3,7 @@
 ![Home Page](webapp.png)
 
 ## Overview
-This project is a Streamlit-based web application that classifies audio files using an ensemble of two deep learning models: **YAMNet** and **Wav2Vec2**. The app takes a WAV audio file as input and provides class predictions using different ensemble techniques.
+This project is a Streamlit-based web application that classifies audio files using an ensemble of two deep learning models: **YAMNet** and **Wav2Vec2**. The app takes a WAV audio file as input and provides class predictions using different ensemble techniques. We skipped deploying in Temporal because of time constraints
 
 ## Report
 A small presentation including all the experiments and results involved in this project is available in the Report Folder. It can be directly accessed using this Link: [Report](https://github.com/ayushraina2028/Frontera-Health-Assignment/blob/master/Report/report.pdf) 
