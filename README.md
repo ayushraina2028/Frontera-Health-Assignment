@@ -3,6 +3,9 @@
 ## Overview
 This project is a Streamlit-based web application that classifies audio files using an ensemble of two deep learning models: **YAMNet** and **Wav2Vec2**. The app takes a WAV audio file as input and provides class predictions using different ensemble techniques.
 
+## Report
+A small presentation including all the experiments and results involved in this project is available in the Report Folder. It can be directly accessed using this Link: [Report]() 
+
 ## Features
 - Upload a WAV audio file
 - Get predictions from **YAMNet** and **Wav2Vec2** models
@@ -10,6 +13,9 @@ This project is a Streamlit-based web application that classifies audio files us
   - **Majority Voting**
   - **Weighted Voting**
 - Display predictions and probabilities in a well-structured UI
+
+## Downloading Weights
+The weights for YAMNet model are available in the above files with the name as "yamnet_finetuned.h5". The weights for Wav2Vec2 model are large in size and hence cannot be uploaded to the repository. Please download weights from this [link](https://drive.google.com/file/d/1wIGGLKuEKHiK3rPd6ge_PvtAUoIMTOlM/view?usp=sharing) to run the web application properly.
 
 ## Installation
 1. Clone this repository:
